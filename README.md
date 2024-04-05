@@ -8,3 +8,5 @@ Benim adım Talha ve ben bir yazılım geliştiriciyim.
 - 💻 Yazılım geliştirme ve teknolojilerle ilgileniyorum.
 - 🌱 Şu anda yeni şeyler öğrenmeye ve kendimi geliştirmeye çalışıyorum.
 - 📫 Benimle iletişime geçmek için yucetalha8290@gmail.com üzerinden bana ulaşabilirsiniz.
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
