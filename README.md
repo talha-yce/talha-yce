@@ -31,11 +31,11 @@
     Ben Talha, teknolojiye ve yeniliğe tutkuyla bağlı bir <strong>Yazılım Mühendisliği</strong> öğrencisiyim. Algoritmaların büyülü dünyasında kaybolmayı, karmaşık problemleri kodlarla çözmeyi ve kullanıcı dostu uygulamalar geliştirmeyi seviyorum.
   </p>
   <ul>
-    <li>🎓 <strong>Eğitim:</strong> Yazılım Mühendisliği (Devam Ediyor) - <em>[Buraya Üniversitenin Adını Yazabilirsin - Opsiyonel]</em></li>
+    <li>🎓 <strong>Eğitim:</strong> Yazılım Mühendisliği (Devam Ediyor) - <!-- [Üniversitenizin Adı - Opsiyonel] --> İstanbul Gedik Üniversitesi </li>
     <li>💻 <strong>İlgi Alanları:</strong> Full-Stack Geliştirme, Yapay Zeka, Mobil Uygulamalar, Siber Güvenlik.</li>
-    <li>🌱 <strong>Şu Anki Odak Noktam:</strong> <em>[Örneğin: React Native ile mobil uygulama geliştirme, Python ile makine öğrenmesi temelleri, vb. - Burayı Güncelle]</em></li>
+    <li>🌱 <strong>Şu Anki Odak Noktam:</strong> <!-- [Örneğin: React Native ile mobil uygulama geliştirme, Python ile makine öğrenmesi temelleri, vb. - Burayı Güncelle] --> Python ile Veri Bilimi ve Makine Öğrenmesi üzerine kendimi geliştirmek.</li>
     <li>💡 <strong>Felsefem:</strong> "Sürekli öğren, merak et ve bildiklerini paylaş."</li>
-    <li>🌍 <strong>Diller:</strong> Türkçe (Ana Dil), İngilizce (<em>[Seviyen: Örn: B2, C1 vb. - Burayı Güncelle]</em>)</li>
+    <li>🌍 <strong>Diller:</strong> Türkçe (Ana Dil), İngilizce (<!-- [Seviyen: Örn: B2, C1 vb. - Burayı Güncelle] --> B1 - Orta Seviye)</li>
   </ul>
 </details>
 
@@ -47,9 +47,9 @@
   </p>
   <ul>
     <li>🌐 Web Geliştirme (Frontend & Backend)</li>
-    <li>📱 Mobil Uygulama Geliştirme</li>
+    <li>📱 Mobil Uygulama Geliştirmeye Giriş</li>
     <li>🤖 Yapay Zeka ve Makine Öğrenmesi Temelleri</li>
-    <li>☁️ Bulut Teknolojileri ve DevOps Prensipleri</li>
+    <li>☁️ Bulut Teknolojileri ve DevOps Prensipleri (Temel Düzey)</li>
     <li>🎮 Oyun Geliştirmeye Giriş (Hobi olarak)</li>
   </ul>
 </details>
@@ -109,10 +109,10 @@
   </a>
 </p>
 
-<!-- WakaTime Entegrasyonu (Eğer WakaTime kullanıyorsan ve ayarladıysan)
+<!-- WakaTime Entegrasyonu (Eğer WakaTime kullanıyorsan ve ayarladıysan aşağıdaki yorum satırlarını kaldırın ve KULLANICI_ADINIZI girin)
 <p align="center">
-  <a href="https://wakatime.com/@SENIN_WAKATIME_KULLANICI_ADIN">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SENIN_WAKATIME_KULLANICI_ADIN&theme=radical&hide_border=true&border_radius=10&layout=compact" />
+  <a href="https://wakatime.com/@KULLANICI_ADINIZ">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KULLANICI_ADINIZ&theme=radical&hide_border=true&border_radius=10&layout=compact" />
   </a>
 </p>
 -->
@@ -121,24 +121,15 @@
 
 ## 🌟 Öne Çıkan Projelerim
 
-<!-- 
-Projelerini buraya ekle. 
-Örnek GitHub Pin:
-[![Proje Adı](https://github-readme-stats.vercel.app/api/pin/?username=talha-yce&repo=PROJE_REPO_ADI&theme=radical&show_owner=true)](https://github.com/talha-yce/PROJE_REPO_ADI)
-
-Aşağıdaki örnekleri kendi PUBLIC repolarınla değiştirmeyi unutma!
-Eğer henüz pinlenecek projen yoksa bu bölümü silebilir veya yorum satırı yapabilirsin.
--->
 <div align="center">
 
-  <!-- Örnek Proje 1 (Kendi projenle değiştir) -->
-  <!-- [![Proje 1 Adı](https://github-readme-stats.vercel.app/api/pin/?username=talha-yce&repo=SENIN_PROJE_REPO_ADIN_1&theme=radical&show_owner=true)](https://github.com/talha-yce/SENIN_PROJE_REPO_ADIN_1) -->
+  <!-- Örnek Proje 1 (Kendi projenle değiştir: username=talha-yce&repo=PROJE_REPO_ADI) -->
+  <!-- [![Proje 1 Adı](https://github-readme-stats.vercel.app/api/pin/?username=talha-yce&repo=ILK_PROJE_REPO_ADINIZ&theme=radical&show_owner=true)](https://github.com/talha-yce/ILK_PROJE_REPO_ADINIZ) -->
   
-  <!-- Örnek Proje 2 (Kendi projenle değiştir) -->
-  <!-- [![Proje 2 Adı](https://github-readme-stats.vercel.app/api/pin/?username=talha-yce&repo=SENIN_PROJE_REPO_ADIN_2&theme=radical&show_owner=true)](https://github.com/talha-yce/SENIN_PROJE_REPO_ADIN_2) -->
+  <!-- Örnek Proje 2 (Kendi projenle değiştir: username=talha-yce&repo=PROJE_REPO_ADI) -->
+  <!-- [![Proje 2 Adı](https://github-readme-stats.vercel.app/api/pin/?username=talha-yce&repo=IKINCI_PROJE_REPO_ADINIZ&theme=radical&show_owner=true)](https://github.com/talha-yce/IKINCI_PROJE_REPO_ADINIZ) -->
   
-  <p><em>Henüz öne çıkan proje eklemedim. Yakında eklenecek!</em></p>
-  <!-- Eğer projelerin varsa üstteki yorum satırlarını kaldırıp, "Henüz öne çıkan..." satırını silebilirsin. -->
+  <p><em>Henüz öne çıkan proje eklemedim. Yakında eklenecek! (Yukarıdaki yorum satırlarını kaldırıp kendi projelerinizi ekleyebilirsiniz.)</em></p>
 
 </div>
 <p align="center">
@@ -151,24 +142,22 @@ Eğer henüz pinlenecek projen yoksa bu bölümü silebilir veya yorum satırı 
 
 <div align="center">
   <!-- 
-    Yılan animasyonunu oluşturmak için: https://github.com/Platane/snk
-    Aşağıdaki `src` linkini, kendi GitHub Actions ile oluşturduğun SVG dosyasıyla değiştirmelisin.
-    Genellikle şuna benzer bir yapıda olur:
-    https://raw.githubusercontent.com/talha-yce/talha-yce/output/github-contribution-grid-snake.svg
-    VEYA
-    https://raw.githubusercontent.com/talha-yce/talha-yce/main/dist/github-contribution-grid-snake.svg
-    (Platane/snk reposundaki talimatlara göre değişir)
-    
-    Eğer henüz yılan animasyonunu ayarlamadıysan, aşağıdaki resim yerine bir placeholder veya yorum satırı kullanabilirsin.
+    YILAN ANİMASYONUNU AKTİF ETMEK İÇİN:
+    1. GitHub profil reponuzda (talha-yce/talha-yce) bir GitHub Action kurun. Önerilen: https://github.com/Platane/snk
+    2. Action'ın ürettiği .svg dosyalarının (genellikle biri açık tema, diğeri koyu tema için) URL'lerini aşağıdaki `srcset` ve `src` атрибутlarına girin.
+       URL'ler genellikle şuna benzer:
+       https://raw.githubusercontent.com/talha-yce/talha-yce/output/github-contribution-grid-snake.svg
+       https://raw.githubusercontent.com/talha-yce/talha-yce/output/github-contribution-grid-snake-dark.svg
+       (Branch adı 'output' veya 'main/dist' gibi farklı olabilir, Action ayarlarınıza bağlıdır.)
+    3. Aşağıdaki <picture>...</picture> bloğunu yorum satırından çıkarın.
   -->
+  <!--
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talha-yce/talha-yce/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/talha-yce/talha-yce/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/talha-yce/talha-yce/output/github-contribution-grid-snake.svg">
-  </picture>
-  <!-- Yukarıdaki linki KESİNLİKLE kendi oluşturduğun yılan SVG linki ile değiştirmelisin! -->
-  <!-- Eğer yılan animasyonu hazır değilse, bu bölümü yorum satırı yapabilir veya aşağıdaki gibi bir not düşebilirsin: -->
-  <!-- <p><em>Yılan animasyonum yakında burada olacak!</em></p> -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talha-yce/talha-yce/BRANCH_ADI/YOL/github-contribution-grid-snake-dark.svg"> <!-- <-- KENDİ URL'NİZİ GİRİN -->
+    <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/talha-yce/talha-yce/BRANCH_ADI/YOL/github-contribution-grid-snake.svg"> <!-- <-- KENDİ URL'NİZİ GİRİN -->
+    <!-- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/talha-yce/talha-yce/BRANCH_ADI/YOL/github-contribution-grid-snake.svg"> <!-- <-- KENDİ URL'NİZİ GİRİN -->
+  <!-- </picture> -->
+  <p><em>Yılan animasyonum yakında burada olacak! (GitHub Action'ı kurup yukarıdaki linkleri güncelledikten sonra.)</em></p>
 </div>
 
 ---
@@ -177,9 +166,9 @@ Eğer henüz pinlenecek projen yoksa bu bölümü silebilir veya yorum satırı 
 
 <p align="center">
   <a href="mailto:yucetalha00@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/SENIN-LINKEDIN-KULLANICIADIN/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/talha-yce" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <!-- <-- KENDİ LINKEDIN KULLANICI ADINIZI GİRİN (örn: /in/talha-yce/) -->
   <!-- Diğer sosyal medya linklerini buraya ekleyebilirsin -->
-  <!-- <a href="https://twitter.com/SENIN-TWITTER-KULLANICIADIN" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
+  <!-- <a href="https://twitter.com/SENIN_TWITTER_KULLANICIADIN" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
 </p>
 
 <p align="center">
