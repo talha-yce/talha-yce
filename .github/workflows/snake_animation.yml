@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  # Her gün belirli bir saatte çalıştır (UTC zaman diliminde)
+  schedule:
+    - cron: "0 0 * * *" # Her gün gece yarısı (UTC)
+  # Veya her push işleminde çalıştır (branch'ınıza göre ayarlayın, genellikle main veya master)
+  push:
+    branches:
+      - main # Veya master, kullandığınız varsayılan branch adı
+  # Manuel olarak çalıştırma seçeneği
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }} # Otomatik olarak kullanıcı adınızı alır
+          # Çıktı dosyalarının nereye kaydedileceği
+          # Aşağıdaki iki satır, animasyonu hem açık hem de koyu tema için üretir
+          # ve bunları ana branch'teki 'dist' klasörüne kaydeder.
+          # Eğer 'output' adında ayrı bir branch kullanmak isterseniz, Action belgelerine bakın.
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
