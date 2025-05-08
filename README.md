@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/talha-yce"> <!-- Kendi GitHub profil linkin -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C853¢er=true&vCenter=true&width=550&lines=Merhaba!+Ben+Talha+Yüce.;Yazılım+Geliştiricisiyim.;Sürekli+Öğreniyorum...;Teknoloji+Tutkunuyum!" alt="Merhaba! Ben Talha Yüce. Yazılım Geliştiricisiyim. Sürekli Öğreniyorum... Teknoloji Tutkunuyum!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C853&width=435&lines=Merhaba!+Ben+Talha+Y%C3%BCce;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftiricisiyim.;S%C3%BCrekli+%C3%96%C4%9Freniyorum...;Teknoloji+Tutkunuyum!" alt="Merhaba! Ben Talha Yüce - Yazı Animasyonu"/>
   </a>
 </div>
 
@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://github.com/talha-yce?tab=repositories">
-    <img alt="Repositories" title="Tüm Repolarım" src="https://img.shields.io/github/repo-count/talha-yce?style=for-the-badge&logo=github&color=00C853&logoColor=white"/></a>
+    <img alt="Repositories" title="Tüm Repolarım" src="https://img.shields.io/github/repo-count/talha-yce?style=for-the-badge&logo=github&color=00C852&logoColor=white"/></a>
   <a href="https://github.com/talha-yce?tab=followers">
     <img alt="Followers" title="Beni Takip Et!" src="https://img.shields.io/github/followers/talha-yce?style=for-the-badge&logo=github&color=00C853&logoColor=white"/></a>
-  <a href="https://github.com/talha-yce"> <!-- Yıldızları saymak için genel profil linki yeterli -->
+  <a href="https://github.com/talha-yce">
     <img alt="Stars" title="Projelerime Yıldız Ver!" src="https://img.shields.io/github/stars/talha-yce?style=for-the-badge&logo=github&color=00C853&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=talha-yce&label=PROFİL+GÖRÜNTÜLEME&color=00C853&style=for-the-badge" alt="Profile Views" />
 </p>
