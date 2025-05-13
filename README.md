@@ -40,13 +40,13 @@
     <li>💻 <strong>Ana İlgi Alanları:</strong> Full-Stack Geliştirme, Yapay Zeka, Mobil Teknolojiler, Siber Güvenlik</li>
     <li>🌍 <strong>Diller:</strong> Türkçe (Ana Dil), İngilizce (B1 - Orta Seviye)</li>
     <li>💡 <strong>Yaklaşımım:</strong> Meraklı, problem odaklı ve işbirlikçi.</li>
-    <li>🏆 **Başarılar/Hedefler:** [Buraya varsa bir başarı veya hedef ekleyebilirsin, örn: "X Sertifikasını Aldım", "Y Konusunda Uzmanlaşmayı Hedefliyorum"]</li>
+    <!-- 🏆 **Başarılar/Hedefler:** [Buraya varsa bir başarı veya hedef ekleyebilirsin, örn: "X Sertifikasını Aldım", "Y Konusunda Uzmanlaşmayı Hedefliyorum"] --> <!-- DÜZELTİLDİ: Bu satırı doldurun veya silin. Şimdilik yorum satırı yapıldı. -->
   </ul>
 </details>
 
 ---
 
-## 🛠️ Teknoloji & Araç Setim (Tech Stack) <img src="https://media.giphy.com/media/ competenze/giphy.gif" width="30"> <!-- Daha iyi bir GIF bulabilirsin -->
+## 🛠️ Teknoloji & Araç Setim (Tech Stack) <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> <!-- DÜZELTİLDİ: Bozuk GIF linki çalışan bir örnekle değiştirildi. İstediğiniz başka bir GIF ile değiştirebilirsiniz. -->
 
 <div align="center">
   <p>
@@ -99,16 +99,14 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/talha-yce">
-    <!-- GitHub Streak İstatistikleri -->
-    [![GitHub Streak](https://streak-stats.demolab.com?user=talha-yce&theme=tokyonight&hide_border=true&border_radius=10&locale=tr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=talha-yce&theme=tokyonight&hide_border=true&border_radius=10&locale=tr&date_format=j%20M%5B%20Y%5D" />
   </a>
 </p>
-
 <!-- WakaTime Entegrasyonu -->
-<!-- !! UYARI !! Çalışması için WakaTime.com ayarlarında veri görünürlüğünün herkese açık olması gerekir. -->
+<!-- !! UYARI !! Çalışması için WakaTime.com ayarlarında veri görünürlüğünün herkese açık olması gerekir. Ayrıca WakaTime kullanıcı adınızın (`talha_yce`) doğru olduğundan emin olun. -->
 <p align="center">
-  <a href="https://wakatime.com/@talha_yce"> <!-- WakaTime kullanıcı adını kontrol et -->
+  <a href="https://wakatime.com/@talha_yce"> <!-- WakaTime kullanıcı adınızı kontrol edin -->
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=talha_yce&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" />
   </a>
 </p>
@@ -117,11 +115,12 @@
 
 ## 🌟 Öne Çıkan Projelerim <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="30">
 
-<!-- !! UYARI !! Çalışması için repo adlarını kendi projelerinle değiştir. -->
+<!-- !! UYARI !! Repo adını ve linkini kendi projelerinle değiştirmeyi unutma. -->
 <p align="center">
-  <a href="https://github.com/talha-yce/[PROJE_REPO_ADI_1]">
+  <a href="https://github.com/talha-yce/Webtoon-Mobil-Uygulama"> <!-- DÜZELTİLDİ: Linkteki placeholder repo adı ile değiştirildi -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=talha-yce&repo=Webtoon-Mobil-Uygulama&theme=tokyonight&show_owner=false" />
   </a>
+  <!-- Başka projeler eklemek istersen yukarıdaki gibi bir blok daha ekleyebilirsin -->
 </p>
 <p align="center">
   <a href="https://github.com/talha-yce?tab=repositories">Tüm projelerimi görmek için tıklayın...</a>
@@ -145,18 +144,3 @@
 <p align="center">
   <em>Ziyaretiniz için teşekkürler! ✨</em>
 </p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/line.svg" width="100%" alt="Divider">
-  <br>
-  <img src="https://visitor-badge.laobi.la/badge?page_id=talha-yce.talha-yce&left_text=Ziyaretçi" alt="visitor badge"/>
-  <br>
-  <!-- Kodlama Saati Rozeti (Örnek) -->
-  <!-- <img src="https://img.shields.io/badge/Kodlama_Saati-1200%2B_saat-blue?style=flat-square&logo=clockify&logoColor=white" alt="Coding Hours"/> -->
-  <br>
-  <samp>
-    <p align="center">
-      Bu README <a href="https://www.markdownguide.org/">Markdown</a> ile hazırlandı ve sürekli geliştiriliyor.
-    </p>
-  </samp>
-</div>
