@@ -20,7 +20,7 @@
 
 ## 🔭 Şu Anda Ne Üzerindeyim? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-*   🌱 **Öğrenme:** Python ekosisteminde derinleşiyorum; özellikle **Veri Bilimi** ve **Makine Öğrenmesi** temelleri üzerine yoğunlaşıyorum.
+*   🌱 **Öğrenme:** Frontend ekosisteminde derinleşiyorum; özellikle **Next.js** temelleri üzerine yoğunlaşıyorum.
 *   💡 **Geliştirme:** Full-stack yeteneklerimi pekiştirecek kişisel projeler üzerinde çalışıyorum.
 *   👯 **İşbirliği:** Açık kaynak dünyasına katkıda bulunma fırsatlarını araştırıyorum.
 *   🚀 **Hedef:** Öğrendiklerimi somut projelere dönüştürmek ve portföyümü genişletmek.
@@ -33,12 +33,12 @@
   <summary><strong>Profil & Yetenek Özeti</strong></summary>
   <br>
   <p>
-    İstanbul Gedik Üniversitesi'nde <strong>Yazılım Mühendisliği</strong> eğitimi alan, teknolojiye tutkun bir geliştiriciyim. Karmaşık sorunları analiz etmeyi, algoritma tasarlamayı ve temiz, verimli kod yazmayı seviyorum. Sürekli öğrenme ve kendimi geliştirme felsefesiyle hareket ediyorum.
+    Elazığ Fırat Üniversitesi'nde <strong>Yazılım Mühendisliği</strong> eğitimi alan, teknolojiye tutkun bir geliştiriciyim. Karmaşık sorunları analiz etmeyi, algoritma tasarlamayı ve temiz, verimli kod yazmayı seviyorum. Sürekli öğrenme ve kendimi geliştirme felsefesiyle hareket ediyorum.
   </p>
   <ul>
-    <li>🎓 <strong>Eğitim:</strong> Yazılım Mühendisliği (Devam Ediyor) - İstanbul Gedik Üniversitesi</li>
-    <li>💻 <strong>Ana İlgi Alanları:</strong> Full-Stack Geliştirme, Yapay Zeka, Mobil Teknolojiler, Siber Güvenlik</li>
-    <li>🌍 <strong>Diller:</strong> Türkçe (Ana Dil), İngilizce (B1 - Orta Seviye)</li>
+    <li>🎓 <strong>Eğitim:</strong> Yazılım Mühendisliği (Devam Ediyor) - Elazığ Fırat Üniversitesi</li>
+    <li>💻 <strong>Ana İlgi Alanları:</strong> Full-Stack Geliştirme, Yapay Zeka, Web Teknolojileri, Frontend</li>
+    <li>🌍 <strong>Diller:</strong> Türkçe (Ana Dil), İngilizce (A2 - Başlangıç Seviye)</li>
     <li>💡 <strong>Yaklaşımım:</strong> Meraklı, problem odaklı ve işbirlikçi.</li>
     <!-- 🏆 **Başarılar/Hedefler:** [Buraya varsa bir başarı veya hedef ekleyebilirsin, örn: "X Sertifikasını Aldım", "Y Konusunda Uzmanlaşmayı Hedefliyorum"] --> <!-- DÜZELTİLDİ: Bu satırı doldurun veya silin. Şimdilik yorum satırı yapıldı. -->
   </ul>
@@ -46,7 +46,7 @@
 
 ---
 
-## 🛠️ Teknoloji & Araç Setim (Tech Stack) <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> <!-- DÜZELTİLDİ: Bozuk GIF linki çalışan bir örnekle değiştirildi. İstediğiniz başka bir GIF ile değiştirebilirsiniz. -->
+## 🛠️ Teknoloji & Araç Setim (Tech Stack) <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> 
 
 <div align="center">
   <p>
