@@ -120,6 +120,9 @@
   <a href="https://github.com/talha-yce/Webtoon-Mobil-Uygulama"> <!-- DÜZELTİLDİ: Linkteki placeholder repo adı ile değiştirildi -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=talha-yce&repo=Webtoon-Mobil-Uygulama&theme=tokyonight&show_owner=false" />
   </a>
+  <a href="https://github.com/talha-yce/portfolio-website"> <!-- DÜZELTİLDİ: Linkteki placeholder repo adı ile değiştirildi -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=talha-yce&repo=portfolio-website&theme=tokyonight&show_owner=false" />
+  </a>
   <!-- Başka projeler eklemek istersen yukarıdaki gibi bir blok daha ekleyebilirsin -->
 </p>
 <p align="center">
