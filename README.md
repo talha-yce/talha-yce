@@ -1,149 +1,181 @@
 <div align="center">
-  <a href="https://github.com/talha-yce">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C853&width=435&lines=Merhaba!+Ben+Talha+Y%C3%BCce;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftiricisiyim.;Kodlarla+Problem+%C3%87%C3%B6z%C3%BCyorum.;S%C3%BCrekli+%C3%96%C4%9Freniyorum...;Teknoloji+Tutkunuyum!" alt="Merhaba! Ben Talha Yüce - Yazı Animasyonu"/>
-  </a>
-  <br>
-  <p><strong>Dijital dünyada kodlarla değer yaratmaya odaklanmış bir yazılım geliştirici.</strong></p>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Selamlama Eli">
-  <br>
+
+# 👋 Hi, I'm Talha Yüce
+
+### Software Engineer
+
+Building modern web applications, AI-powered solutions, and scalable software systems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/talha-yce)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/talha-yce)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yucetalha00@gmail.com)
+
+📍 Mersin, Türkiye
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/talha-yce?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/talha-yce?style=flat-square&logo=github&color=A3BE8C&logoColor=white"/></a>
-  <a href="https://github.com/talha-yce?tab=stars"><img alt="Stars" src="https://img.shields.io/github/stars/talha-yce?style=flat-square&logo=github&color=EBCB8B&logoColor=white"/></a>
-  <a href="https://github.com/talha-yce?tab=contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/talha-yce/talha-yce?style=flat-square&logo=github&color=BF616A&logoColor=white"/></a> <!-- Kendine ait repoya katkıda bulunanları gösterir -->
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=talha-yce&label=PROFILE+VIEWS&color=B48EAD&style=flat-square" alt="Profile Views" />
+---
+
+# 🚀 About Me
+
+Software Engineering graduate from **Fırat University** with hands-on experience in:
+
+* ASP.NET Core Development
+* React & Next.js Applications
+* Artificial Intelligence Integrations
+* Mobile Application Development
+* Database Design & Management
+* Unity Game Development
+
+I enjoy building practical software solutions, solving real-world problems, and continuously improving my engineering skills through hands-on projects.
+
+---
+
+# 💼 Professional Experience
+
+## Software Engineer — Eterna Teknoloji
+
+* Developed and maintained React-based web applications.
+* Built AI integration and data processing solutions using Python.
+* Worked with MongoDB and Firebase.
+* Developed automation systems using Google Apps Script and external APIs.
+
+## Unity Game Developer Intern — İnosens Bilişim Teknolojileri
+
+* Developed game prototypes and gameplay systems using Unity and C#.
+* Participated in testing, balancing, and improving game mechanics.
+* Worked with Git-based collaborative development workflows.
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,java,python,js,ts" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,unity" />
 </p>
 
 ---
 
-## 🔭 Şu Anda Ne Üzerindeyim? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+# 🌟 Featured Projects
 
-*   🌱 **Öğrenme:** Frontend ekosisteminde derinleşiyorum; özellikle **Next.js** temelleri üzerine yoğunlaşıyorum.
-*   💡 **Geliştirme:** Full-stack yeteneklerimi pekiştirecek kişisel projeler üzerinde çalışıyorum.
-*   👯 **İşbirliği:** Açık kaynak dünyasına katkıda bulunma fırsatlarını araştırıyorum.
-*   🚀 **Hedef:** Öğrendiklerimi somut projelere dönüştürmek ve portföyümü genişletmek.
+### 🍹 MoodBrew
 
----
+AI-powered beverage recommendation platform that analyzes customer emotions and generates personalized drink suggestions.
 
-## 🚀 Hakkımda <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30">
-
-<details open>
-  <summary><strong>Profil & Yetenek Özeti</strong></summary>
-  <br>
-  <p>
-    Elazığ Fırat Üniversitesi'nde <strong>Yazılım Mühendisliği</strong> eğitimi alan, teknolojiye tutkun bir geliştiriciyim. Karmaşık sorunları analiz etmeyi, algoritma tasarlamayı ve temiz, verimli kod yazmayı seviyorum. Sürekli öğrenme ve kendimi geliştirme felsefesiyle hareket ediyorum.
-  </p>
-  <ul>
-    <li>🎓 <strong>Eğitim:</strong> Yazılım Mühendisliği (Devam Ediyor) - Elazığ Fırat Üniversitesi</li>
-    <li>💻 <strong>Ana İlgi Alanları:</strong> Full-Stack Geliştirme, Yapay Zeka, Web Teknolojileri, Frontend</li>
-    <li>🌍 <strong>Diller:</strong> Türkçe (Ana Dil), İngilizce (A2 - Başlangıç Seviye)</li>
-    <li>💡 <strong>Yaklaşımım:</strong> Meraklı, problem odaklı ve işbirlikçi.</li>
-    <!-- 🏆 **Başarılar/Hedefler:** [Buraya varsa bir başarı veya hedef ekleyebilirsin, örn: "X Sertifikasını Aldım", "Y Konusunda Uzmanlaşmayı Hedefliyorum"] --> <!-- DÜZELTİLDİ: Bu satırı doldurun veya silin. Şimdilik yorum satırı yapıldı. -->
-  </ul>
-</details>
+**Technologies:** ASP.NET Core • MongoDB • AI Integration
 
 ---
 
-## 🛠️ Teknoloji & Araç Setim (Tech Stack) <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> 
+### 🎵 Sense Of Tunes
+
+Emotion-based music recommendation system using sentiment analysis and machine learning APIs.
+
+**Technologies:** ASP.NET Core • MongoDB • Hugging Face API
+
+---
+
+### 🌐 Portfolio Website
+
+Modern personal portfolio and blogging platform.
+
+**Technologies:** Next.js • TypeScript • MongoDB
+
+---
+
+### 📚 DarkTon
+
+Mobile application for discovering, tracking, and reading webtoons.
+
+**Technologies:** React Native • Firebase
+
+---
+
+# 📌 Project Cards
+
+<p align="center">
+
+<a href="https://github.com/talha-yce/moodbrew">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=talha-yce&repo=moodbrew&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/talha-yce/portfolio-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=talha-yce&repo=portfolio-website&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Sense-of-Tunes">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=talha-yce&repo=Sense-of-Tunes&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/talha-yce/Webtoon-Mobil-Uygulama">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=talha-yce&repo=Webtoon-Mobil-Uygulama&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=talha-yce&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-yce&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 📈 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=talha-yce&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 📫 Contact
+
+* GitHub: https://github.com/talha-yce
+* LinkedIn: https://linkedin.com/in/talha-yce
+* Email: [yucetalha00@gmail.com](mailto:yucetalha00@gmail.com)
+
+---
 
 <div align="center">
-  <p>
-    <strong>Programlama Dilleri:</strong><br>
-    <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-    <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/></a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/></a>
-    <!-- Başka diller ekle -->
-  </p>
-  <p>
-    <strong>Frontend:</strong><br>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/></a>
-    <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
-    <!-- Başka frontend teknolojileri ekle -->
-  </p>
-  <p>
-    <strong>Backend & Veritabanları:</strong><br>
-    <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/></a>
-    <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
-    <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-    <!-- Başka backend/veritabanı teknolojileri ekle -->
-  </p>
-  <p>
-    <strong>Araçlar, Platformlar & Diğerleri:</strong><br>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></a>
-    <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></a>
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/></a>
-    <a href="https://postman.com" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/></a>
-    <!-- Kullandığın diğer araçları ekle -->
-  </p>
+
+### Building software, solving problems, and continuously improving.
+
 </div>
-
----
-
-## 📊 GitHub Aktivitelerim & İstatistikler <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30">
-
-<p align="center">
-  <a href="https://github.com/talha-yce">
-    <!-- GitHub İstatistikleri Kartı -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talha-yce&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&card_width=495"/>
-    <!-- En Çok Kullanılan Diller Kartı -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-yce&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&card_width=320"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=talha-yce&theme=tokyonight&hide_border=true&border_radius=10&locale=tr&date_format=j%20M%5B%20Y%5D" />
-  </a>
-</p>
-<!-- WakaTime Entegrasyonu -->
-<!-- !! UYARI !! Çalışması için WakaTime.com ayarlarında veri görünürlüğünün herkese açık olması gerekir. Ayrıca WakaTime kullanıcı adınızın (`talha_yce`) doğru olduğundan emin olun. -->
-<p align="center">
-  <a href="https://wakatime.com/@talha_yce"> <!-- WakaTime kullanıcı adınızı kontrol edin -->
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=talha_yce&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" />
-  </a>
-</p>
-
----
-
-## 🌟 Öne Çıkan Projelerim <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="30">
-
-<!-- !! UYARI !! Repo adını ve linkini kendi projelerinle değiştirmeyi unutma. -->
-<p align="center">
-  <a href="https://github.com/talha-yce/Webtoon-Mobil-Uygulama"> <!-- DÜZELTİLDİ: Linkteki placeholder repo adı ile değiştirildi -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=talha-yce&repo=Webtoon-Mobil-Uygulama&theme=tokyonight&show_owner=false" />
-  </a>
-  <a href="https://github.com/talha-yce/portfolio-website"> <!-- DÜZELTİLDİ: Linkteki placeholder repo adı ile değiştirildi -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=talha-yce&repo=portfolio-website&theme=tokyonight&show_owner=false" />
-  </a>
-  <!-- Başka projeler eklemek istersen yukarıdaki gibi bir blok daha ekleyebilirsin -->
-</p>
-<p align="center">
-  <a href="https://github.com/talha-yce?tab=repositories">Tüm projelerimi görmek için tıklayın...</a>
-</p>
-
----
-
-## 📫 Bana Ulaşın <img src="https://media.giphy.com/media/LnQjpWaON8nhr21gsI/giphy.gif" width="30">
-
-<p align="center">
-  Projeler, işbirlikleri veya sadece bir merhaba demek için aşağıdaki kanallardan bana ulaşabilirsiniz:
-  <br><br>
-  <a href="mailto:yucetalha00@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/talha-yce" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <!-- <a href="https://twitter.com/SENIN_TWITTER_KULLANICI_ADIN" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a> -->
-  <!-- <a href="https://dev.to/SENIN_DEVTO_KULLANICI_ADIN" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"></a> -->
-  <!-- <a href="https://stackoverflow.com/users/SENIN_STACKOVERFLOW_ID/SENIN_KULLANICI_ADIN" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a> -->
-  <!-- <a href="https://www.instagram.com/SENIN_INSTAGRAM_KULLANICI_ADIN/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> -->
-</p>
-
-<p align="center">
-  <em>Ziyaretiniz için teşekkürler! ✨</em>
-</p>
